@@ -1,25 +1,3 @@
----
-createdAt: 2025-09-04
-updatedAt: 2025-10-03
-title: Getting Started with Intlayer in React Router v7
-description: Learn how to add internationalization (i18n) to your React Router v7 application using Intlayer. Follow this comprehensive guide to make your app multilingual with locale-aware routing.
-keywords:
-  - Internationalization
-  - Documentation
-  - Intlayer
-- React Router v7
-  - React
-  - i18n
-  - TypeScript
-  - Locale Routing
-slugs:
-  - doc
-  - environment
-  - vite-and-react
-  - react-router-v7
-applicationTemplate: https://github.com/AydinTheFirst/react-router-intlayer
----
-
 # Getting Started Internationalizing (i18n) with Intlayer and React Router v7
 
 This guide demonstrates how to integrate **Intlayer** for seamless internationalization in React Router v7 projects with locale-aware routing, TypeScript support, and modern development practices.
@@ -475,10 +453,3 @@ To go further, you can implement the [visual editor](https://github.com/aymericz
 - [Configuration](https://github.com/aymericzip/intlayer/blob/main/docs/docs/en/configuration.md)
 
 This comprehensive guide provides everything you need to integrate Intlayer with React Router v7 for a fully internationalized application with locale-aware routing and TypeScript support.
-
-## Doc History
-
-| Version | Date       | Changes                   |
-| ------- | ---------- | ------------------------- |
-| 6.1.5   | 2025-10-03 | Updated doc               |
-| 5.8.2   | 2025-09-4  | Added for React Router v7 |
